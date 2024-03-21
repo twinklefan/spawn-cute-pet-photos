@@ -1,8 +1,8 @@
 {
   "icons": {
-    "16": "./img/icon-16.png",
-    "32": "./img/icon-32.png",
-    "128": "./img/icon-128.png"
+    "16": "./img/icon-2-16.png",
+    "32": "./img/icon-2-32.png",
+    "128": "./img/icon-2-128.png"
 },
   "name": "Cute Pets!",
   "version": "2.5",

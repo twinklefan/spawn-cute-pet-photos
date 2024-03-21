@@ -1,7 +1,7 @@
 
 (function() {
     // Total amount of images
-    const max = 103;
+    const max = 108;
     
     const images = [];
     for (i = 1; i < max; i++) {

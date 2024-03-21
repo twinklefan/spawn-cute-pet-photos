@@ -29,7 +29,7 @@ function randomize(max) {
 function generateStyle() {
     const { left, top } = generateLocation();
     const degrees = generateRotation();
-    const width = randomize(250) + 200;
+    const width = randomize(200) + 200;
     const style = `
     z-index: 2;
     position: absolute;

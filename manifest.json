@@ -5,7 +5,7 @@
     "128": "./img/icon-2-128.png"
 },
   "name": "Cute Pets!",
-  "version": "2.5",
+  "version": "2.2",
   "manifest_version": 2,
   "description": "A extension to place cute pet photos!",
   "background": {
@@ -21,13 +21,5 @@
     "https://*/*",
     "http://*/*",
     "tabs"
-  ],
-  "_execute_action": {
-    "suggested_key": {
-      "windows": "Ctrl+Shift+Z",
-      "mac": "Command+Shift+Z",
-      "chromeos": "Ctrl+Shift+Z",
-      "linux": "Ctrl+Shift+Z"
-    }
-  }
+  ]
 }
